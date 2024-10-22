@@ -1,4 +1,4 @@
-# TV-Box Support - Code of Conduct 🤝
+# TV-Box Support - Code of Conduct 🤝 
 
 At TV-Box Support, we are committed to building a healthy and friendly community where everyone can learn and share knowledge about open-source smart TV software. 📺💚
 
